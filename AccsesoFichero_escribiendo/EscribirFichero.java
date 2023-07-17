@@ -1,6 +1,7 @@
 package AccsesoFichero_escribiendo;
 
-import AccesoFicheros_Leyendo.Escribiendo;
+
+import java.io.FileReader;
 
 public class EscribirFichero {
 
